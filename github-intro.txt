@@ -1,0 +1,5 @@
+- GitHub is a cloud platform that hosts Git repositories online.
+- It allows developers to collaborate and share code.
+- Pull Requests are used to propose and review changes before merging.
+- Branches help organize work without affecting the main branch.
+- GitHub provides tools like Issues and Actions for project management and automation.
